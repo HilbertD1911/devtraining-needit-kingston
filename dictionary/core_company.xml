@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="global_search_config_handler=CompanySearchConfig,all_tables.text_index_translations=true" create_roles="user_admin" label="Company" max_length="40" name="core_company" text_index="true" type="collection">
+        <element label="Audit Income" max_length="20" name="x_58872_needit_audit_income" read_only="true" type="currency"/>
+        <element label="Chairman Account" max_length="40" name="x_58872_needit_chairman_account" type="boolean"/>
+        <element label="Non-audit Income" max_length="20" name="x_58872_needit_non_audit_income" read_only="true" type="currency"/>
+    </element>
+</database>

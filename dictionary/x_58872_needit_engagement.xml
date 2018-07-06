@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="Engagement" max_length="40" name="x_58872_needit_engagement" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="FRR" max_length="40" name="u_string_10" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Gross Profit" max_length="40" name="u_string_11" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Workflow Stage" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Client" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Engagement Manager" max_length="40" name="u_string_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Year End" max_length="40" name="u_string_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="40" name="u_string_7" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Work notes" max_length="40" name="u_string_8" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Fee" max_length="40" name="u_string_9" type="string"/>
+    </element>
+</database>

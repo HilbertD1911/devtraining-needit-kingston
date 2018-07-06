@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Client Stakeholders" max_length="40" name="x_58872_needit_client_stakeholders" type="collection">
+        <element label="Assigned Development Group" max_length="40" name="assigned_development_group" type="string"/>
+        <element label="Demo Location" max_length="100" name="demo_location" type="string"/>
+        <element label="HHD Identifier" max_length="100" name="hhd_identifier" type="string"/>
+        <element label="Prototype Evangelist" max_length="100" name="prototype_evangelist" type="string"/>
+        <element label="Prototype Notes" max_length="100" name="prototype_notes" type="string"/>
+        <element label="Prototype Number" max_length="100" name="prototype_number" type="string"/>
+        <element label="Status" max_length="100" name="status" type="string"/>
+        <element display="true" label="System Name" max_length="100" name="system_name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Company" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone" max_length="40" name="u_string_5" type="string"/>
+    </element>
+</database>
